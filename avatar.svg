@@ -9,12 +9,12 @@
   <circle cx="35.50" cy="35.50" r="3.33" fill="hsl(247, 62%, 48%)" opacity="0.202" />
   <circle cx="64.50" cy="35.50" r="3.33" fill="hsl(247, 62%, 48%)" opacity="0.202" />
   <circle cx="35.50" cy="50.00" r="4.84" fill="hsl(247, 62%, 48%)" opacity="0.621" />
-  <circle cx="50.00" cy="50.00" r="3.26" fill="hsl(37, 62%, 48%)" opacity="0.182" />
+  <circle cx="50.00" cy="50.00" r="3.26" fill="hsl(37, 73%, 42%)" opacity="0.182" />
   <circle cx="64.50" cy="50.00" r="4.84" fill="hsl(247, 62%, 48%)" opacity="0.621" />
   <circle cx="21.00" cy="64.50" r="2.69" fill="hsl(187, 62%, 48%)" opacity="0.024" />
-  <circle cx="50.00" cy="64.50" r="6.17" fill="hsl(37, 62%, 48%)" opacity="0.992" />
+  <circle cx="50.00" cy="64.50" r="6.17" fill="hsl(37, 73%, 42%)" opacity="0.992" />
   <circle cx="79.00" cy="64.50" r="2.69" fill="hsl(187, 62%, 48%)" opacity="0.024" />
-  <circle cx="35.50" cy="79.00" r="5.26" fill="hsl(37, 62%, 48%)" opacity="0.740" />
+  <circle cx="35.50" cy="79.00" r="5.26" fill="hsl(37, 73%, 42%)" opacity="0.740" />
   <circle cx="50.00" cy="79.00" r="6.17" fill="hsl(187, 62%, 48%)" opacity="0.990" />
-  <circle cx="64.50" cy="79.00" r="5.26" fill="hsl(37, 62%, 48%)" opacity="0.740" />
+  <circle cx="64.50" cy="79.00" r="5.26" fill="hsl(37, 73%, 42%)" opacity="0.740" />
 </svg>
