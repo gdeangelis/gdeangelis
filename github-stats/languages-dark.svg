@@ -12,27 +12,27 @@
   </g>
   <g transform="translate(0, 55)">
     <svg x="25" width="275"><g transform="translate(0, 0)"><text x="2" y="15" class="lang-name">Rust</text>
-        <text x="215" y="34" class="lang-name">35.80%</text>
+        <text x="215" y="34" class="lang-name">35.93%</text>
         <g transform="translate(0, 25)">
           <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd" />
-          <rect rx="5" ry="5" x="0" y="0" width="73" height="8" fill="#dea584" />
+          <rect rx="5" ry="5" x="0" y="0" width="74" height="8" fill="#dea584" />
         </g></g><g transform="translate(0, 40)"><text x="2" y="15" class="lang-name">Nix</text>
-        <text x="215" y="34" class="lang-name">19.36%</text>
+        <text x="215" y="34" class="lang-name">19.32%</text>
         <g transform="translate(0, 25)">
           <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd" />
           <rect rx="5" ry="5" x="0" y="0" width="40" height="8" fill="#7e7eff" />
         </g></g><g transform="translate(0, 80)"><text x="2" y="15" class="lang-name">Python</text>
-        <text x="215" y="34" class="lang-name">15.35%</text>
+        <text x="215" y="34" class="lang-name">15.31%</text>
         <g transform="translate(0, 25)">
           <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd" />
           <rect rx="5" ry="5" x="0" y="0" width="31" height="8" fill="#3572A5" />
         </g></g><g transform="translate(0, 120)"><text x="2" y="15" class="lang-name">Vim Script</text>
-        <text x="215" y="34" class="lang-name">8.95%</text>
+        <text x="215" y="34" class="lang-name">8.93%</text>
         <g transform="translate(0, 25)">
           <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd" />
           <rect rx="5" ry="5" x="0" y="0" width="18" height="8" fill="#199f4b" />
         </g></g><g transform="translate(0, 160)"><text x="2" y="15" class="lang-name">HCL</text>
-        <text x="215" y="34" class="lang-name">5.34%</text>
+        <text x="215" y="34" class="lang-name">5.33%</text>
         <g transform="translate(0, 25)">
           <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd" />
           <rect rx="5" ry="5" x="0" y="0" width="11" height="8" fill="#844FBA" />
@@ -47,12 +47,12 @@
           <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd" />
           <rect rx="5" ry="5" x="0" y="0" width="4" height="8" fill="#e34c26" />
         </g></g><g transform="translate(0, 280)"><text x="2" y="15" class="lang-name">Jinja</text>
-        <text x="215" y="34" class="lang-name">1.78%</text>
+        <text x="215" y="34" class="lang-name">1.77%</text>
         <g transform="translate(0, 25)">
           <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd" />
           <rect rx="5" ry="5" x="0" y="0" width="4" height="8" fill="#a52a22" />
         </g></g><g transform="translate(0, 320)"><text x="2" y="15" class="lang-name">Other</text>
-        <text x="215" y="34" class="lang-name">6.87%</text>
+        <text x="215" y="34" class="lang-name">6.86%</text>
         <g transform="translate(0, 25)">
           <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd" />
           <rect rx="5" ry="5" x="0" y="0" width="14" height="8" fill="#858585" />
