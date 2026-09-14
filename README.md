@@ -20,3 +20,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=white)
+
+### 📊 GitHub Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gdeangelis/gdeangelis/master/github-stats/languages-dark.svg">
+  <img alt="Most Used Languages" src="https://raw.githubusercontent.com/gdeangelis/gdeangelis/master/github-stats/languages-light.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gdeangelis/gdeangelis/master/github-stats/stats-dark.svg">
+  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/gdeangelis/gdeangelis/master/github-stats/stats-light.svg">
+</picture>
