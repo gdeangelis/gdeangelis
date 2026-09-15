@@ -12,50 +12,50 @@
   </g>
   <g transform="translate(0, 55)">
     <svg x="25" width="275"><g transform="translate(0, 0)"><text x="2" y="15" class="lang-name">Rust</text>
-        <text x="215" y="34" class="lang-name">35.93%</text>
+        <text x="215" y="34" class="lang-name">38.51%</text>
         <g transform="translate(0, 25)">
           <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd" />
-          <rect rx="5" ry="5" x="0" y="0" width="74" height="8" fill="#dea584" />
-        </g></g><g transform="translate(0, 40)"><text x="2" y="15" class="lang-name">Nix</text>
-        <text x="215" y="34" class="lang-name">19.32%</text>
+          <rect rx="5" ry="5" x="0" y="0" width="79" height="8" fill="#dea584" />
+        </g></g><g transform="translate(0, 40)"><text x="2" y="15" class="lang-name">TypeScript</text>
+        <text x="215" y="34" class="lang-name">18.20%</text>
         <g transform="translate(0, 25)">
           <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd" />
-          <rect rx="5" ry="5" x="0" y="0" width="40" height="8" fill="#7e7eff" />
-        </g></g><g transform="translate(0, 80)"><text x="2" y="15" class="lang-name">Python</text>
-        <text x="215" y="34" class="lang-name">15.31%</text>
+          <rect rx="5" ry="5" x="0" y="0" width="37" height="8" fill="#3178c6" />
+        </g></g><g transform="translate(0, 80)"><text x="2" y="15" class="lang-name">Nix</text>
+        <text x="215" y="34" class="lang-name">12.79%</text>
         <g transform="translate(0, 25)">
           <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd" />
-          <rect rx="5" ry="5" x="0" y="0" width="31" height="8" fill="#3572A5" />
-        </g></g><g transform="translate(0, 120)"><text x="2" y="15" class="lang-name">Vim Script</text>
-        <text x="215" y="34" class="lang-name">8.93%</text>
+          <rect rx="5" ry="5" x="0" y="0" width="26" height="8" fill="#7e7eff" />
+        </g></g><g transform="translate(0, 120)"><text x="2" y="15" class="lang-name">Python</text>
+        <text x="215" y="34" class="lang-name">10.14%</text>
         <g transform="translate(0, 25)">
           <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd" />
-          <rect rx="5" ry="5" x="0" y="0" width="18" height="8" fill="#199f4b" />
-        </g></g><g transform="translate(0, 160)"><text x="2" y="15" class="lang-name">HCL</text>
-        <text x="215" y="34" class="lang-name">5.33%</text>
+          <rect rx="5" ry="5" x="0" y="0" width="21" height="8" fill="#3572A5" />
+        </g></g><g transform="translate(0, 160)"><text x="2" y="15" class="lang-name">Vim Script</text>
+        <text x="215" y="34" class="lang-name">5.91%</text>
         <g transform="translate(0, 25)">
           <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd" />
-          <rect rx="5" ry="5" x="0" y="0" width="11" height="8" fill="#844FBA" />
-        </g></g><g transform="translate(0, 200)"><text x="2" y="15" class="lang-name">Shell</text>
-        <text x="215" y="34" class="lang-name">4.49%</text>
+          <rect rx="5" ry="5" x="0" y="0" width="12" height="8" fill="#199f4b" />
+        </g></g><g transform="translate(0, 200)"><text x="2" y="15" class="lang-name">HCL</text>
+        <text x="215" y="34" class="lang-name">3.53%</text>
         <g transform="translate(0, 25)">
           <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd" />
-          <rect rx="5" ry="5" x="0" y="0" width="9" height="8" fill="#89e051" />
-        </g></g><g transform="translate(0, 240)"><text x="2" y="15" class="lang-name">HTML</text>
-        <text x="215" y="34" class="lang-name">2.05%</text>
+          <rect rx="5" ry="5" x="0" y="0" width="7" height="8" fill="#844FBA" />
+        </g></g><g transform="translate(0, 240)"><text x="2" y="15" class="lang-name">Shell</text>
+        <text x="215" y="34" class="lang-name">2.97%</text>
+        <g transform="translate(0, 25)">
+          <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd" />
+          <rect rx="5" ry="5" x="0" y="0" width="6" height="8" fill="#89e051" />
+        </g></g><g transform="translate(0, 280)"><text x="2" y="15" class="lang-name">HTML</text>
+        <text x="215" y="34" class="lang-name">1.38%</text>
         <g transform="translate(0, 25)">
           <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd" />
           <rect rx="5" ry="5" x="0" y="0" width="4" height="8" fill="#e34c26" />
-        </g></g><g transform="translate(0, 280)"><text x="2" y="15" class="lang-name">Jinja</text>
-        <text x="215" y="34" class="lang-name">1.77%</text>
-        <g transform="translate(0, 25)">
-          <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd" />
-          <rect rx="5" ry="5" x="0" y="0" width="4" height="8" fill="#a52a22" />
         </g></g><g transform="translate(0, 320)"><text x="2" y="15" class="lang-name">Other</text>
-        <text x="215" y="34" class="lang-name">6.86%</text>
+        <text x="215" y="34" class="lang-name">6.56%</text>
         <g transform="translate(0, 25)">
           <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd" />
-          <rect rx="5" ry="5" x="0" y="0" width="14" height="8" fill="#858585" />
+          <rect rx="5" ry="5" x="0" y="0" width="13" height="8" fill="#858585" />
         </g></g></svg>
   </g>
 </svg>
