@@ -24,13 +24,13 @@
 ### 📊 GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gdeangelis/gdeangelis/master/github-stats/stats-dark.svg">
-  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/gdeangelis/gdeangelis/master/github-stats/stats-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gdeangelis/gdeangelis/master/static/stats-dark.svg">
+  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/gdeangelis/gdeangelis/master/static/stats-light.svg">
 </picture>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gdeangelis/gdeangelis/master/github-stats/languages-dark.svg">
-  <img alt="Most Used Languages" src="https://raw.githubusercontent.com/gdeangelis/gdeangelis/master/github-stats/languages-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gdeangelis/gdeangelis/master/static/languages-dark.svg">
+  <img alt="Most Used Languages" src="https://raw.githubusercontent.com/gdeangelis/gdeangelis/master/static/languages-light.svg">
 </picture>
