@@ -1,24 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="512" height="512">
   <defs>
-    <linearGradient id="ic-60496e9e37fe" gradientUnits="userSpaceOnUse" x1="50.00" y1="52.17" x2="50.00" y2="58.82"><stop offset="0.0000" stop-color="rgb(183, 127, 28)" /><stop offset="0.0836" stop-color="rgb(183, 127, 28)" /><stop offset="0.9235" stop-color="rgb(183, 127, 28)" /><stop offset="1.0000" stop-color="rgb(183, 127, 28)" /></linearGradient>
-    <linearGradient id="ic-faabfdafde97" gradientUnits="userSpaceOnUse" x1="50.00" y1="68.65" x2="50.00" y2="74.85"><stop offset="0.0000" stop-color="rgb(183, 127, 28)" /><stop offset="0.3295" stop-color="rgb(183, 127, 28)" /><stop offset="0.6705" stop-color="rgb(47, 178, 198)" /><stop offset="1.0000" stop-color="rgb(47, 178, 198)" /></linearGradient>
-    <linearGradient id="ic-db6610f8753e" gradientUnits="userSpaceOnUse" x1="38.72" y1="79.00" x2="44.97" y2="79.00"><stop offset="0.0000" stop-color="rgb(183, 127, 28)" /><stop offset="0.2048" stop-color="rgb(183, 127, 28)" /><stop offset="0.8138" stop-color="rgb(47, 178, 198)" /><stop offset="1.0000" stop-color="rgb(47, 178, 198)" /></linearGradient>
-    <linearGradient id="ic-da7a1692da3b" gradientUnits="userSpaceOnUse" x1="55.03" y1="79.00" x2="61.28" y2="79.00"><stop offset="0.0000" stop-color="rgb(47, 178, 198)" /><stop offset="0.1862" stop-color="rgb(47, 178, 198)" /><stop offset="0.7952" stop-color="rgb(183, 127, 28)" /><stop offset="1.0000" stop-color="rgb(183, 127, 28)" /></linearGradient>
+    <linearGradient id="ic-6a07385efe28" gradientUnits="userSpaceOnUse" x1="50.00" y1="52.15" x2="50.00" y2="58.81"><stop offset="0.0000" stop-color="rgb(183, 127, 28)" /><stop offset="0.0810" stop-color="rgb(183, 127, 28)" /><stop offset="0.9256" stop-color="rgb(183, 127, 28)" /><stop offset="1.0000" stop-color="rgb(183, 127, 28)" /></linearGradient>
+    <linearGradient id="ic-189dc593a2f0" gradientUnits="userSpaceOnUse" x1="50.00" y1="68.65" x2="50.00" y2="74.85"><stop offset="0.0000" stop-color="rgb(183, 127, 28)" /><stop offset="0.3288" stop-color="rgb(183, 127, 28)" /><stop offset="0.6713" stop-color="rgb(47, 177, 198)" /><stop offset="1.0000" stop-color="rgb(47, 177, 198)" /></linearGradient>
+    <linearGradient id="ic-3c3ff8d5ca34" gradientUnits="userSpaceOnUse" x1="38.69" y1="79.00" x2="44.94" y2="79.00"><stop offset="0.0000" stop-color="rgb(183, 127, 28)" /><stop offset="0.1990" stop-color="rgb(183, 127, 28)" /><stop offset="0.8195" stop-color="rgb(47, 177, 198)" /><stop offset="1.0000" stop-color="rgb(47, 177, 198)" /></linearGradient>
+    <linearGradient id="ic-cf00d3464ad2" gradientUnits="userSpaceOnUse" x1="55.06" y1="79.00" x2="61.31" y2="79.00"><stop offset="0.0000" stop-color="rgb(47, 177, 198)" /><stop offset="0.1805" stop-color="rgb(47, 177, 198)" /><stop offset="0.8010" stop-color="rgb(183, 127, 28)" /><stop offset="1.0000" stop-color="rgb(183, 127, 28)" /></linearGradient>
   </defs>
-  <path d="M48.35 52.17A2.73 2.73 0 0 0 51.65 52.17A3.87 3.87 0 0 0 52.46 58.82A6.19 6.19 0 0 0 47.54 58.82A3.87 3.87 0 0 0 48.35 52.17Z" fill="url(#ic-60496e9e37fe)" fill-opacity="0.033" />
-  <path d="M45.40 68.65A6.19 6.19 0 0 0 54.60 68.65A4.63 4.63 0 0 0 54.60 74.85A6.19 6.19 0 0 0 45.40 74.85A4.63 4.63 0 0 0 45.40 68.65Z" fill="url(#ic-faabfdafde97)" fill-opacity="0.995" />
-  <path d="M38.72 82.14A4.50 4.50 0 0 0 38.72 75.86A4.09 4.09 0 0 0 44.97 75.39A6.19 6.19 0 0 0 44.97 82.61A4.09 4.09 0 0 0 38.72 82.14Z" fill="url(#ic-db6610f8753e)" fill-opacity="0.526" />
-  <path d="M55.03 82.61A6.19 6.19 0 0 0 55.03 75.39A4.09 4.09 0 0 0 61.28 75.86A4.50 4.50 0 0 0 61.28 82.14A4.09 4.09 0 0 0 55.03 82.61Z" fill="url(#ic-da7a1692da3b)" fill-opacity="0.526" />
-  <circle cx="21.00" cy="21.00" r="6.08" fill="hsl(248, 62%, 48%)" opacity="0.966" />
-  <circle cx="50.00" cy="21.00" r="2.91" fill="hsl(188, 62%, 48%)" opacity="0.087" />
-  <circle cx="79.00" cy="21.00" r="6.08" fill="hsl(248, 62%, 48%)" opacity="0.966" />
-  <circle cx="35.50" cy="50.00" r="5.11" fill="hsl(248, 62%, 48%)" opacity="0.698" />
-  <circle cx="50.00" cy="50.00" r="2.73" fill="hsl(38, 74%, 41%)" opacity="0.036" />
-  <circle cx="64.50" cy="50.00" r="5.11" fill="hsl(248, 62%, 48%)" opacity="0.698" />
-  <circle cx="21.00" cy="64.50" r="3.21" fill="hsl(188, 62%, 48%)" opacity="0.170" />
-  <circle cx="50.00" cy="64.50" r="6.19" fill="hsl(38, 74%, 41%)" opacity="0.997" />
-  <circle cx="79.00" cy="64.50" r="3.21" fill="hsl(188, 62%, 48%)" opacity="0.170" />
-  <circle cx="35.50" cy="79.00" r="4.50" fill="hsl(38, 74%, 41%)" opacity="0.528" />
-  <circle cx="50.00" cy="79.00" r="6.19" fill="hsl(188, 62%, 48%)" opacity="0.998" />
-  <circle cx="64.50" cy="79.00" r="4.50" fill="hsl(38, 74%, 41%)" opacity="0.528" />
+  <path d="M48.39 52.15A2.69 2.69 0 0 0 51.61 52.15A3.88 3.88 0 0 0 52.43 58.81A6.19 6.19 0 0 0 47.57 58.81A3.88 3.88 0 0 0 48.39 52.15Z" fill="url(#ic-6a07385efe28)" fill-opacity="0.020" />
+  <path d="M45.41 68.65A6.19 6.19 0 0 0 54.59 68.65A4.63 4.63 0 0 0 54.59 74.85A6.19 6.19 0 0 0 45.41 74.85A4.63 4.63 0 0 0 45.41 68.65Z" fill="url(#ic-189dc593a2f0)" fill-opacity="0.993" />
+  <path d="M38.69 82.08A4.43 4.43 0 0 0 38.69 75.92A4.07 4.07 0 0 0 44.94 75.44A6.19 6.19 0 0 0 44.94 82.56A4.07 4.07 0 0 0 38.69 82.08Z" fill="url(#ic-3c3ff8d5ca34)" fill-opacity="0.505" />
+  <path d="M55.06 82.56A6.19 6.19 0 0 0 55.06 75.44A4.07 4.07 0 0 0 61.31 75.92A4.43 4.43 0 0 0 61.31 82.08A4.07 4.07 0 0 0 55.06 82.56Z" fill="url(#ic-cf00d3464ad2)" fill-opacity="0.505" />
+  <circle cx="21.00" cy="21.00" r="6.07" fill="hsl(248, 62%, 48%)" opacity="0.963" />
+  <circle cx="50.00" cy="21.00" r="2.87" fill="hsl(188, 62%, 48%)" opacity="0.074" />
+  <circle cx="79.00" cy="21.00" r="6.07" fill="hsl(248, 62%, 48%)" opacity="0.963" />
+  <circle cx="35.50" cy="50.00" r="5.14" fill="hsl(248, 62%, 48%)" opacity="0.704" />
+  <circle cx="50.00" cy="50.00" r="2.69" fill="hsl(38, 74%, 41%)" opacity="0.024" />
+  <circle cx="64.50" cy="50.00" r="5.14" fill="hsl(248, 62%, 48%)" opacity="0.704" />
+  <circle cx="21.00" cy="64.50" r="3.26" fill="hsl(188, 62%, 48%)" opacity="0.182" />
+  <circle cx="50.00" cy="64.50" r="6.19" fill="hsl(38, 74%, 41%)" opacity="0.996" />
+  <circle cx="79.00" cy="64.50" r="3.26" fill="hsl(188, 62%, 48%)" opacity="0.182" />
+  <circle cx="35.50" cy="79.00" r="4.43" fill="hsl(38, 74%, 41%)" opacity="0.508" />
+  <circle cx="50.00" cy="79.00" r="6.19" fill="hsl(188, 62%, 48%)" opacity="0.997" />
+  <circle cx="64.50" cy="79.00" r="4.43" fill="hsl(38, 74%, 41%)" opacity="0.508" />
 </svg>
